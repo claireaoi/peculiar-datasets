@@ -1,6 +1,7 @@
 # Peculiar datasets
 
-🚀👾🌵🗿**Open call for peculiar datasets:**🚀👾🌵🗿
+🚀👾🌵🗿 **Open call for peculiar datasets:** 🚀👾🌵🗿
+
 the only banana left in the supermarket, summer bruises, error screens, broken hardrives, people falling asleep next to Harrari's books, Google translated t-shirts, elbows funks, whatever you feel attached to!
 May it be quirky data, mundane data, engaged data, forgotten data, endangered data, neglected data, situated data, insignificant data, Object Oriented Ontologist data, etc.
 
