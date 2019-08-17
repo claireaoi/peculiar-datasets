@@ -12,10 +12,10 @@ Data is there, everywhere around you and in your hand, in the technologies you r
 We want to deconstruct these visions of data-collection, datasets and the segmentation of the world they vehiculate. We want to switch from a massive & exploitative capitalistic data accumulation to a collective sharing amateur circle.
 These handmade datasets could exist elsewhere, out of the capitalocene, in the inter and intra-personal, in the non-anthropocentred or in the mundane, and they would surface alternative narratives for the world.
 
-🌈 Once a dataset, once a reality.🌈 
+Once a dataset, once a reality.🌈 
 
 ### 🐠 How ? 🐠
-Via Github, or via email, reach us, and share your dataset with our Peculiar Data Circle.💫
+Via Github (here, pull request), or via email ( soundslike0003@gmail.com ), reach us, and share your dataset with our Peculiar Data Circle.💫
 It will soon be posted online, stay tuned! 
 Any question, feedback, suggestion? We would be glad to hear from you !
 
