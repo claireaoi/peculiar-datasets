@@ -15,7 +15,7 @@ Somehow, these handmade datasets are meant to exist elsewhere, out of the capita
 Once a dataset, once a reality.🌈 
 
 ### 🐠 How ? 🐠
-Via Github (here, pull request), or via email ( soundslike0003@gmail.com ), reach us, and share your dataset with our Peculiar Data Circle.💫
+Via Github (here, pull request), or via email ( soundslike003@gmail.com ), reach us, and share your dataset with our Peculiar Data Circle.💫
 It will soon be posted online, stay tuned! 
 Any question, feedback, suggestion? We would be glad to hear from you !
 
