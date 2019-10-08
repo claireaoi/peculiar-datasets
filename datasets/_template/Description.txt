@@ -1,0 +1,6 @@
+Here, it is suggested to name your dataset.
+
+Here, you can describe your dataset in a few words, on in thousands of words.
+You can tell stuff about why or how this dataset hatched in this world, or your relation to it. 
+You can tell about the human or non-human critters which have been involved in its construction.
+You can also stay elusive.

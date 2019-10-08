@@ -1,5 +1,0 @@
-Here,
-
-You can describe your dataset in a few words, on in thousands of words.
-You can tell stuff about why or how this dataset hatched in this world, or your relation to it.
-You can also stay elusive.
